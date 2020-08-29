@@ -1,8 +1,6 @@
 
 ## Computational Statistics Course Project: "On the shrinkage method LASSO - Least Absolute Shrinkage and Selection Operator" 
 
-
----
 <a href="https://nbviewer.jupyter.org/github/s6soverd/Computational-Statistics-Project-onLASSO/blob/master/finalproject_lasso.ipynb"
    target="_parent">
    <img align="center"
