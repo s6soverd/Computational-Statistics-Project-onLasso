@@ -1,7 +1,7 @@
 
-## Computational Statistics Course Project: 
-### On the shrinkage method - LASSO, does the shrinkage of OLS parameters give improved prediction errors?
-### Exploring the essential quality of LASSO in setting parameters to zero under various simulatory contexts¶
+# Computational Statistics Course Project: 
+## On the shrinkage method - LASSO, does the shrinkage of OLS parameters give improved prediction errors?
+## Exploring the essential quality of LASSO in setting parameters to zero under various simulatory contexts
 
 <a href="https://nbviewer.jupyter.org/github/s6soverd/Computational-Statistics-Project-onLASSO/blob/master/finalproject_lasso.ipynb"
    target="_parent">
